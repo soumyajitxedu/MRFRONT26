@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Soumyajit das and I'm a Developer, from Nutan Malancha</h2>
+<h2 align="left">Hi 👋! My name is Soumyajit das and I'm a Developer, from india</h2>
 
 ###
 
