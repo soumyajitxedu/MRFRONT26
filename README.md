@@ -38,38 +38,11 @@
 <br/>
 
 <details open> 
-  <summary><h2>🛠️ My Tech Stack</h2></summary>
-  
-  <h3>👨‍💻 Core Development</h3>
-  <p>
-      <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
-      <a href="#"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
-      <a href="#"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B.svg?logo=flutter&logoColor=white"></a>
-      <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-      <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
-      <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
-  </p>
-
-  <h3>🤖 AI & Data Science</h3>
-  <p>
-      <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
-      <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
-      <a href="#"><img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF.svg?logo=kaggle&logoColor=white"></a>
-  </p>
-  
-  <h3>☁️ Cloud & Backend</h3>
-  <p>
-      <a href="#"><img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E.svg?logo=amazon-aws&logoColor=white"></a>
-      <a href="#"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28.svg?logo=firebase&logoColor=black"></a>
-      <a href="#"><img alt="Google" src="https://img.shields.io/badge/Google-4285F4.svg?logo=google&logoColor=white"></a>
-  </p>
-
-  <h3>🎨 Design & Tools</h3>
-  <p>
-      <a href="#"><img alt="Blender" src="https://img.shields.io/badge/Blender-F5792A.svg?logo=blender&logoColor=white"></a>
-      <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E.svg?logo=figma&logoColor=white"></a>
-      <a href="#"><img alt="VS Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-      <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
+  <summary><h2>🛠️ My Favorite Tools and Technologies</h2></summary>
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=python,java,flutter,tensorflow,numpy,aws,firebase,blender,figma,html,css,js,git&theme=dracula&perline=7" />
+    </a>
   </p>
 </details>
 
