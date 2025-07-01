@@ -37,14 +37,63 @@
 
 <br/>
 
-<details open> 
-  <summary><h2>🛠️ My Favorite Tools and Technologies</h2></summary>
-  <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=python,java,flutter,tensorflow,numpy,aws,firebase,blender,figma,html,css,js,git&theme=dracula&perline=7" />
-    </a>
-  </p>
-</details>
+<h3 align="center">🛠️ My Favorite Tools and Technologies</h3>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=python&theme=dracula" width="48" height="48" alt="Python" />
+      <br>Python
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=flutter&theme=dracula" width="48" height="48" alt="Flutter" />
+      <br>Flutter
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=tensorflow&theme=dracula" width="48" height="48" alt="TensorFlow" />
+      <br>TensorFlow
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=blender&theme=dracula" width="48" height="48" alt="Blender" />
+      <br>Blender
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=figma&theme=dracula" width="48" height="48" alt="Figma" />
+      <br>Figma
+    </td>
+     <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=aws&theme=dracula" width="48" height="48" alt="AWS" />
+      <br>AWS
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=java&theme=dracula" width="48" height="48" alt="Java" />
+      <br>Java
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=firebase&theme=dracula" width="48" height="48" alt="Firebase" />
+      <br>Firebase
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=numpy&theme=dracula" width="48" height="48" alt="NumPy" />
+      <br>NumPy
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=js&theme=dracula" width="48" height="48" alt="JavaScript" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=html&theme=dracula" width="48" height="48" alt="HTML5" />
+      <br>HTML5
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=css&theme=dracula" width="48" height="48" alt="CSS3" />
+      <br>CSS3
+    </td>
+  </tr>
+</table>
+
+<br>
 
 <details> 
   <summary><h2>📊 GitHub Activity</h2></summary>
