@@ -508,6 +508,10 @@
 
 ### 🎯 CURRENT FOCUS
 
+
+
+
+
 ```typescript
 const soumyajit = {
     location: "India 🇮🇳",
@@ -534,6 +538,14 @@ const soumyajit = {
 <td width="50%" valign="top">
 
 ### 💡 INTEREST MATRIX
+
+
+<img src="https://i.giphy.com/8JCIWBz8oRRLZmZhNn.webp" width="50%">
+<img src="https://github.com/soumyajitxedu/others/blob/main/Untitled7_20260228161828.png " width="50%">
+<img src="https://github.com/soumyajitxedu/others/blob/main/Animate_this__with_static_shot__only_flower.gif" width="100%">
+
+
+<img src="https://i.giphy.com/etU9iNPvK9ser5bnTR.webp" width="45%">
 
 ```python
 interests = {
